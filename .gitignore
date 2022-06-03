@@ -1,4 +1,2 @@
 *.exe
 /secret
-.vscode
-swap.c
